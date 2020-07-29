@@ -71,7 +71,7 @@ banner = """
 
 
 
-                       (Love) (Shona)          
+          
 -----------------------------------------------
 
 ➣ Coder   : Mishal X Faisal
